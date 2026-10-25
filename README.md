@@ -31,4 +31,5 @@ verifiable success criteria, loop until verified.
 | 5 | load-balancer — Build Your Own Load Balancer | `load-balancer/` | Done, tested, pushed |
 | 6 | sort — Build Your Own Sort Tool | `sort/` | Done, tested, pushed |
 | 7 | calculator — Build Your Own Calculator | `calculator/` | Done, tested, pushed |
-| 8 | redis-server — Build Your Own Redis Server | `redis-server/` | Done, tested, not yet pushed |
+| 8 | redis-server — Build Your Own Redis Server | `redis-server/` | Done, tested, pushed |
+| 9 | grep — Build Your Own grep Tool | `grep/` | Done, tested, not yet pushed |
