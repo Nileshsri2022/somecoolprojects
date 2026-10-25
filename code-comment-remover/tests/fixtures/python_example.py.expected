@@ -1,0 +1,2 @@
+l = [x for x in range(10)]
+example = lambda: 'example'  # noqa: E731

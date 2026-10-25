@@ -130,4 +130,5 @@ verifiable success criteria, loop until verified.
 | 104 | echo-server — Build Your Own Echo Server | `echo-server/` | Done, tested, pushed |
 | 105 | git-contributions-visualiser — Build Your Own Git Contributions Visualisation Tool | `git-contributions-visualiser/` | Done, tested, pushed |
 | 106 | static-site-generator — Build Your Own Static Site Generator | `static-site-generator/` | Done, tested, pushed |
-| 107 | timezone-converter — Build Your Own Time Zone Converter | `timezone-converter/` | Done, tested, not yet pushed |
+| 107 | timezone-converter — Build Your Own Time Zone Converter | `timezone-converter/` | Done, tested, pushed |
+| 108 | code-comment-remover — Build Your Own Code Comment Remover | `code-comment-remover/` | Done, tested, not yet pushed |

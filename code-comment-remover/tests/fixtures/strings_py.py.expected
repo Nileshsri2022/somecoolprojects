@@ -1,0 +1,6 @@
+a = '# not a comment'
+b = "# also not"
+c = '''triple # still not
+second line # still not'''
+d = r'raw \# not a comment'
+e = "escaped \" # kept"
