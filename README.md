@@ -112,4 +112,5 @@ verifiable success criteria, loop until verified.
 | 86 | software-teleprompter — Build Your Own Software Teleprompter | `software-teleprompter/` | Done, tested, pushed |
 | 87 | spotify-playlist-backup — Build Your Own Spotify Playlist Backup Service | `spotify-playlist-backup/` | Done, tested, pushed |
 | 88 | uptime-monitoring-service — Build Your Own Uptime Monitoring Service | `uptime-monitoring-service/` | Done, tested, pushed |
-| 89 | yq — Build Your Own yq | `yq/` | Done, tested, not yet pushed |
+| 89 | yq — Build Your Own yq | `yq/` | Done, tested, pushed |
+| 90 | dns-forwarder — Build Your Own DNS Forwarder | `dns-forwarder/` | Done, tested, not yet pushed |
