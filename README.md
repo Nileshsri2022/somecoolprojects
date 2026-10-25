@@ -84,4 +84,5 @@ verifiable success criteria, loop until verified.
 | 58 | mandelbrot-explorer — Build Your Own Mandelbrot Set Explorer | `mandelbrot-explorer/` | Done, tested, pushed |
 | 59 | asteroids — Build Your Own Asteroids | `asteroids/` | Done, tested, pushed |
 | 60 | which — Build Your Own which | `which/` | Done, tested, pushed |
-| 61 | loc-counter — Build Your Own Line of Code Counter | `loc-counter/` | Done, tested, not yet pushed |
+| 61 | loc-counter — Build Your Own Line of Code Counter | `loc-counter/` | Done, tested, pushed |
+| 62 | dhcp-client — Build Your Own DHCP Client | `dhcp-client/` | Done, tested, not yet pushed |
