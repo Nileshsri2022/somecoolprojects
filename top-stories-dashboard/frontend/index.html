@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Top Programming Stories Dashboard</title>
+<style>
+  body { font-family: system-ui, sans-serif; max-width: 800px; margin: 2em auto; padding: 0 1em; }
+  li { margin-bottom: 0.9em; }
+  .meta { color: #555; font-size: 0.85em; }
+</style>
+</head>
+<body>
+<h1>Top Programming Stories</h1>
+<p>
+  <label>Min score: <input id="minScore" type="number" value="0" min="0"></label>
+  <button id="refresh">Refresh</button>
+  <span id="status" class="meta"></span>
+</p>
+<ul id="stories"></ul>
+<script>
+async function load() {
+  const minScore = document.getElementById('minScore').value || 0;
+  const status = document.getElementById('status');
+  try {
+    const resp = await fetch('/stories/top?min_score=' + encodeURIComponent(minScore));
+    const stories = await resp.json();
+    const list = document.getElementById('stories');
+    list.innerHTML = '';
+    for (const s of stories) {
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      a.textContent = s.title || '(untitled)';
+      a.href = s.url || '#';
+      const meta = document.createElement('div');
+      meta.className = 'meta';
+      const when = s.time ? new Date(s.time * 1000).toLocaleString() : 'unknown time';
+      meta.textContent = s.score + ' points · by ' + (s.by || 'unknown') + ' · ' + when + ' · ' + s.source;
+      li.appendChild(a);
+      li.appendChild(meta);
+      list.appendChild(li);
+    }
+    status.textContent = stories.length + ' stories · updated ' + new Date().toLocaleTimeString();
+  } catch (e) {
+    status.textContent = 'failed to load stories: ' + e;
+  }
+}
+document.getElementById('refresh').addEventListener('click', load);
+document.getElementById('minScore').addEventListener('change', load);
+load();
+setInterval(load, 30000);
+</script>
+</body>
+</html>

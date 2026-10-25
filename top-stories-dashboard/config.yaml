@@ -1,0 +1,11 @@
+# Consumer-side filtering for one story-api instance (Step 4).
+# All keys optional; absent keys mean "accept all". Only this small
+# subset of YAML is parsed (see docs/SPEC.md). Example instances:
+#   story-api-top:  min_score: 100
+#   story-api-rust: keywords: [rust]
+#   story-api-ask:  (Ask HN is a separate HN feed, not a filter here)
+min_score: 0
+keywords: []
+sources:
+  - hackernews
+max_age_hours: null
