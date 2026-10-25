@@ -1,0 +1,24 @@
+# Fixture built from the values printed on the challenge page: all five
+# quote texts and the authors for ids 1 and 5 are exactly as printed
+# there. Authors for ids 2, 3 and 4 are NOT on the page; they are
+# invented filler so the fixture has an author field throughout.
+# (The author's Dropbox file was not downloaded; see docs/SPEC.md).
+quotes:
+  - id: 1
+    quote: It is bad for a young man to sin; but it is worse for an old man to sin.
+    author: Abu Bakr (R.A)
+  - id: 2
+    quote: If You Are Out To Describe The Truth, Leave Elegance To The Tailor.
+    author: Albert Einstein
+  - id: 3
+    quote: >-
+      O man you are busy working for the world, and the world is busy trying to turn you out.
+    author: Abu Bakr (R.A)
+  - id: 4
+    quote: >-
+      While children are struggling to be unique, the world around them is trying all means to make them look like everybody else.
+    author: Unknown
+  - id: 5
+    quote: >-
+      These Capitalists Generally Act Harmoniously And In Concert, To Fleece The People.
+    author: Abraham Lincoln
