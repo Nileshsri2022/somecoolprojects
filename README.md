@@ -41,4 +41,5 @@ verifiable success criteria, loop until verified.
 | 15 | cat — Build Your Own cat Tool | `cat/` | Done, tested, pushed |
 | 16 | irc-client — Build Your Own IRC Client | `irc-client/` | Done, tested, pushed |
 | 17 | memcached-server — Build Your Own Memcached Server | `memcached-server/` | Done, tested, pushed |
-| 18 | memcached-cli — Build Your Own Memcached CLI Tool | `memcached-cli/` | Done, tested, not yet pushed |
+| 18 | memcached-cli — Build Your Own Memcached CLI Tool | `memcached-cli/` | Done, tested, pushed |
+| 19 | spotify-client — Build Your Own Spotify Client | `spotify-client/` | Done, tested, not yet pushed |
