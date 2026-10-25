@@ -101,4 +101,5 @@ verifiable success criteria, loop until verified.
 | 75 | google-keep — Build Your Own Google Keep | `google-keep/` | Done, tested, pushed |
 | 76 | notion — Build Your Own Notion | `notion/` | Done, tested, pushed |
 | 77 | social-media-tool — Build Your Own Social Media Tool | `social-media-tool/` | Done, tested, pushed |
-| 78 | ebook-reader — Build Your Own Ebook Reader | `ebook-reader/` | Done, tested, not yet pushed |
+| 78 | ebook-reader — Build Your Own Ebook Reader | `ebook-reader/` | Done, tested, pushed |
+| 79 | language-server — Build Your Own Language Server (LSP) | `language-server/` | Done, tested, not yet pushed |
