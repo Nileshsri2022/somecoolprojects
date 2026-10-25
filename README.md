@@ -66,4 +66,5 @@ verifiable success criteria, loop until verified.
 | 40 | password-cracker — Build Your Own Password Cracker | `password-cracker/` | Done, tested, pushed |
 | 41 | spell-checker-bloom — Build Your Own Spell Checker Using A Bloom Filter | `spell-checker-bloom/` | Done, tested, pushed |
 | 42 | tar — Build Your Own Tar | `tar/` | Done, tested, pushed |
-| 43 | xxd — Build Your Own xxd | `xxd/` | Done, tested, not yet pushed |
+| 43 | xxd — Build Your Own xxd | `xxd/` | Done, tested, pushed |
+| 44 | chess — Build Your Own Chess | `chess/` | Done, tested, not yet pushed |
