@@ -80,4 +80,5 @@ verifiable success criteria, loop until verified.
 | 54 | zip-file-cracker — Build Your Own Zip File Cracker | `zip-file-cracker/` | Done, tested, pushed |
 | 55 | brainfuck-interpreter — Build Your Own brainfuck interpreter | `brainfuck-interpreter/` | Done, tested, pushed |
 | 56 | netcat — Build Your Own Netcat | `netcat/` | Done, tested, pushed |
-| 57 | video-chat — Build Your Own Video Chat Application | `video-chat/` | Done, tested, not yet pushed |
+| 57 | video-chat — Build Your Own Video Chat Application | `video-chat/` | Done, tested, pushed |
+| 58 | mandelbrot-explorer — Build Your Own Mandelbrot Set Explorer | `mandelbrot-explorer/` | Done, tested, not yet pushed |
