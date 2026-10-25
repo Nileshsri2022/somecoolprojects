@@ -71,4 +71,5 @@ verifiable success criteria, loop until verified.
 | 45 | snake — Build Your Own Snake | `snake/` | Done, tested, pushed |
 | 46 | pastebin — Build Your Own Pastebin | `pastebin/` | Done, tested, pushed |
 | 47 | minesweeper — Build Your Own Minesweeper | `minesweeper/` | Done, tested, pushed |
-| 48 | wheel-of-names — Build Your Own Wheel of Names | `wheel-of-names/` | Done, tested, not yet pushed |
+| 48 | wheel-of-names — Build Your Own Wheel of Names | `wheel-of-names/` | Done, tested, pushed |
+| 49 | password-manager — Build Your Own Password Manager | `password-manager/` | Done, tested, not yet pushed |
