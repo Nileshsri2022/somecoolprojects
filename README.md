@@ -48,4 +48,5 @@ verifiable success criteria, loop until verified.
 | 22 | sed — Build Your Own sed | `sed/` | Done, tested, pushed |
 | 23 | dns-resolver — Build Your Own DNS Resolver | `dns-resolver/` | Done, tested, pushed |
 | 24 | traceroute — Build Your Own Traceroute | `traceroute/` | Done, tested, pushed |
-| 25 | realtime-chat — Build Your Own Realtime Chat | `realtime-chat/` | Done, tested, not yet pushed |
+| 25 | realtime-chat — Build Your Own Realtime Chat | `realtime-chat/` | Done, tested, pushed |
+| 26 | nats-broker — Build Your Own NATS Message Broker | `nats-broker/` | Done, tested, not yet pushed |
