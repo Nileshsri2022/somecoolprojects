@@ -132,4 +132,4 @@ verifiable success criteria, loop until verified.
 | 106 | static-site-generator — Build Your Own Static Site Generator | `static-site-generator/` | Done, tested, pushed |
 | 107 | timezone-converter — Build Your Own Time Zone Converter | `timezone-converter/` | Done, tested, pushed |
 | 108 | code-comment-remover — Build Your Own Code Comment Remover | `code-comment-remover/` | Done, tested, pushed |
-| 109 | top — Build Your Own Top | `top/` | Done, tested, not yet pushed |
+| 109 | top — Build Your Own Top | `top/` | Done, tested, pushed |
