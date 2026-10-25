@@ -40,4 +40,5 @@ verifiable success criteria, loop until verified.
 | 14 | shell — Build Your Own Shell | `shell/` | Done, tested, pushed |
 | 15 | cat — Build Your Own cat Tool | `cat/` | Done, tested, pushed |
 | 16 | irc-client — Build Your Own IRC Client | `irc-client/` | Done, tested, pushed |
-| 17 | memcached-server — Build Your Own Memcached Server | `memcached-server/` | Done, tested, not yet pushed |
+| 17 | memcached-server — Build Your Own Memcached Server | `memcached-server/` | Done, tested, pushed |
+| 18 | memcached-cli — Build Your Own Memcached CLI Tool | `memcached-cli/` | Done, tested, not yet pushed |
