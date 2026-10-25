@@ -56,4 +56,5 @@ verifiable success criteria, loop until verified.
 | 30 | lisp-interpreter — Build Your Own Lisp Interpreter | `lisp-interpreter/` | Done, tested, pushed |
 | 31 | tetris — Build Your Own Tetris | `tetris/` | Done, tested, pushed |
 | 32 | qr-code-generator — Build Your Own QR Code Generator | `qr-code-generator/` | Done, tested, pushed |
-| 33 | crontab-tool — Build Your Own CronTab Tool | `crontab-tool/` | Done, tested, not yet pushed |
+| 33 | crontab-tool — Build Your Own CronTab Tool | `crontab-tool/` | Done, tested, pushed |
+| 34 | head — Build Your Own head | `head/` | Done, tested, not yet pushed |
