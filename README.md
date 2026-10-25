@@ -85,4 +85,5 @@ verifiable success criteria, loop until verified.
 | 59 | asteroids — Build Your Own Asteroids | `asteroids/` | Done, tested, pushed |
 | 60 | which — Build Your Own which | `which/` | Done, tested, pushed |
 | 61 | loc-counter — Build Your Own Line of Code Counter | `loc-counter/` | Done, tested, pushed |
-| 62 | dhcp-client — Build Your Own DHCP Client | `dhcp-client/` | Done, tested, not yet pushed |
+| 62 | dhcp-client — Build Your Own DHCP Client | `dhcp-client/` | Done, tested, pushed |
+| 63 | port-scanner — Build Your Own Port Scanner | `port-scanner/` | Done, tested, not yet pushed |
