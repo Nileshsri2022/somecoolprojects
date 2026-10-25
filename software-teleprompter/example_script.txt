@@ -1,0 +1,10 @@
+# Welcome to the Show
+
+Hello, and welcome to today's recording. This is a sample script
+for the software teleprompter.
+
+It scrolls at a speed you choose, in words per minute. Press space
+to pause and resume, plus and minus to go faster or slower, and M
+to mirror the text for a beam-splitter teleprompter.
+
+**Take your time**, speak clearly, and enjoy the show.
