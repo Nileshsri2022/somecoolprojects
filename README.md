@@ -95,4 +95,4 @@ verifiable success criteria, loop until verified.
 | 69 | bittorrent-client — Build Your Own BitTorrent Client | `bittorrent-client/` | Done, tested, pushed |
 | 70 | bitcask — Build Your Own Bitcask | `bitcask/` | Done, tested, pushed |
 | 71 | docker — Build Your Own Docker | `docker/` | Done, tested, pushed |
-| 72 | sort-visualiser — Build Your Own Sort Visualiser | `sort-visualiser/` | Done, tested, not yet pushed |
+| 72 | sort-visualiser — Build Your Own Sort Visualiser | `sort-visualiser/` | Done, tested, pushed |
