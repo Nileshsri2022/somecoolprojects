@@ -38,4 +38,5 @@ verifiable success criteria, loop until verified.
 | 12 | url-shortener — Build Your Own URL Shortener | `url-shortener/` | Done, tested, pushed |
 | 13 | diff — Build Your Own diff Tool | `diff/` | Done, tested, pushed |
 | 14 | shell — Build Your Own Shell | `shell/` | Done, tested, pushed |
-| 15 | cat — Build Your Own cat Tool | `cat/` | Done, tested, not yet pushed |
+| 15 | cat — Build Your Own cat Tool | `cat/` | Done, tested, pushed |
+| 16 | irc-client — Build Your Own IRC Client | `irc-client/` | Done, tested, not yet pushed |
