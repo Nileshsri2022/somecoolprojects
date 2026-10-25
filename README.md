@@ -35,4 +35,5 @@ verifiable success criteria, loop until verified.
 | 9 | grep — Build Your Own grep Tool | `grep/` | Done, tested, pushed |
 | 10 | uniq — Build Your Own uniq Tool | `uniq/` | Done, tested, pushed |
 | 11 | web-server — Build Your Own Web Server | `web-server/` | Done, tested, pushed |
-| 12 | url-shortener — Build Your Own URL Shortener | `url-shortener/` | Done, tested, not yet pushed |
+| 12 | url-shortener — Build Your Own URL Shortener | `url-shortener/` | Done, tested, pushed |
+| 13 | diff — Build Your Own diff Tool | `diff/` | Done, tested, not yet pushed |
