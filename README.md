@@ -76,4 +76,5 @@ verifiable success criteria, loop until verified.
 | 50 | space-invaders — Build Your Own Space Invaders | `space-invaders/` | Done, tested, pushed |
 | 51 | http-forward-proxy — Build Your Own HTTP Forward Proxy Server | `http-forward-proxy/` | Done, tested, pushed |
 | 52 | redis-cli — Build Your Own Redis CLI | `redis-cli/` | Done, tested, pushed |
-| 53 | sudoku — Build Your Own Sudoku | `sudoku/` | Done, tested, not yet pushed |
+| 53 | sudoku — Build Your Own Sudoku | `sudoku/` | Done, tested, pushed |
+| 54 | zip-file-cracker — Build Your Own Zip File Cracker | `zip-file-cracker/` | Done, tested, not yet pushed |
