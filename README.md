@@ -60,4 +60,5 @@ verifiable success criteria, loop until verified.
 | 34 | head — Build Your Own head | `head/` | Done, tested, pushed |
 | 35 | jq — Build Your Own jq | `jq/` | Done, tested, pushed |
 | 36 | pong — Build Your Own Pong | `pong/` | Done, tested, pushed |
-| 37 | curl — Build Your Own curl | `curl/` | Done, tested, not yet pushed |
+| 37 | curl — Build Your Own curl | `curl/` | Done, tested, pushed |
+| 38 | http-load-tester — Build Your Own HTTP(S) Load Tester | `http-load-tester/` | Done, tested, not yet pushed |
