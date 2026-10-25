@@ -68,4 +68,5 @@ verifiable success criteria, loop until verified.
 | 42 | tar — Build Your Own Tar | `tar/` | Done, tested, pushed |
 | 43 | xxd — Build Your Own xxd | `xxd/` | Done, tested, pushed |
 | 44 | chess — Build Your Own Chess | `chess/` | Done, tested, pushed |
-| 45 | snake — Build Your Own Snake | `snake/` | Done, tested, not yet pushed |
+| 45 | snake — Build Your Own Snake | `snake/` | Done, tested, pushed |
+| 46 | pastebin — Build Your Own Pastebin | `pastebin/` | Done, tested, not yet pushed |
