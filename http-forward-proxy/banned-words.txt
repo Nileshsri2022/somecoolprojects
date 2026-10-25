@@ -1,0 +1,5 @@
+# banned-words.txt — one word per line, blank lines and
+# lines starting with '#' are ignored. Matching is a
+# case-insensitive substring search over the response body.
+# Example (commented out, so the default list is empty):
+# dummy

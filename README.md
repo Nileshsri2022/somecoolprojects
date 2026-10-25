@@ -73,4 +73,5 @@ verifiable success criteria, loop until verified.
 | 47 | minesweeper — Build Your Own Minesweeper | `minesweeper/` | Done, tested, pushed |
 | 48 | wheel-of-names — Build Your Own Wheel of Names | `wheel-of-names/` | Done, tested, pushed |
 | 49 | password-manager — Build Your Own Password Manager | `password-manager/` | Done, tested, pushed |
-| 50 | space-invaders — Build Your Own Space Invaders | `space-invaders/` | Done, tested, not yet pushed |
+| 50 | space-invaders — Build Your Own Space Invaders | `space-invaders/` | Done, tested, pushed |
+| 51 | http-forward-proxy — Build Your Own HTTP Forward Proxy Server | `http-forward-proxy/` | Done, tested, not yet pushed |

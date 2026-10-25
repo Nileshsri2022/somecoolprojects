@@ -1,0 +1,5 @@
+# forbidden-hosts.txt — one host per line, blank lines and
+# lines starting with '#' are ignored. Matching is case-insensitive
+# and also matches subdomains of a listed host.
+# Example (commented out, so the default list is empty):
+# facebook.com
