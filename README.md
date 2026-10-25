@@ -45,4 +45,5 @@ verifiable success criteria, loop until verified.
 | 19 | spotify-client — Build Your Own Spotify Client | `spotify-client/` | Done, tested, pushed |
 | 20 | discord-bot — Build Your Own Discord Bot | `discord-bot/` | Done, tested, pushed |
 | 21 | linkedin-carousel-generator — Build Your Own LinkedIn Carousel Generator | `linkedin-carousel-generator/` | Done, tested, pushed |
-| 22 | sed — Build Your Own sed | `sed/` | Done, tested, not yet pushed |
+| 22 | sed — Build Your Own sed | `sed/` | Done, tested, pushed |
+| 23 | dns-resolver — Build Your Own DNS Resolver | `dns-resolver/` | Done, tested, not yet pushed |
