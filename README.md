@@ -28,4 +28,5 @@ verifiable success criteria, loop until verified.
 | 2 | json-parser — Build Your Own JSON Parser | `json-parser/` | Done, tested, pushed |
 | 3 | compression — Build Your Own Compression Tool (Huffman) | `compression/` | Done, tested, pushed |
 | 4 | cut — Build Your Own cut Tool | `cut/` | Done, tested, pushed |
-| 5 | load-balancer — Build Your Own Load Balancer | `load-balancer/` | Done, tested, not yet pushed |
+| 5 | load-balancer — Build Your Own Load Balancer | `load-balancer/` | Done, tested, pushed |
+| 6 | sort — Build Your Own Sort Tool | `sort/` | Done, tested, not yet pushed |
