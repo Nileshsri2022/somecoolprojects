@@ -103,4 +103,5 @@ verifiable success criteria, loop until verified.
 | 77 | social-media-tool — Build Your Own Social Media Tool | `social-media-tool/` | Done, tested, pushed |
 | 78 | ebook-reader — Build Your Own Ebook Reader | `ebook-reader/` | Done, tested, pushed |
 | 79 | language-server — Build Your Own Language Server (LSP) | `language-server/` | Done, tested, pushed |
-| 80 | chrome-extension — Build Your Own Chrome Extension | `chrome-extension/` | Done, tested, not yet pushed |
+| 80 | chrome-extension — Build Your Own Chrome Extension | `chrome-extension/` | Done, tested, pushed |
+| 81 | loom-clone — Build Your Own Loom Clone | `loom-clone/` | Done, tested, not yet pushed |
