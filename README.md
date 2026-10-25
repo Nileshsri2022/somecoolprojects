@@ -88,4 +88,5 @@ verifiable success criteria, loop until verified.
 | 62 | dhcp-client — Build Your Own DHCP Client | `dhcp-client/` | Done, tested, pushed |
 | 63 | port-scanner — Build Your Own Port Scanner | `port-scanner/` | Done, tested, pushed |
 | 64 | forth-interpreter — Build Your Own Forth Interpreter | `forth-interpreter/` | Done, tested, pushed |
-| 65 | whois — Build Your Own Whois | `whois/` | Done, tested, not yet pushed |
+| 65 | whois — Build Your Own Whois | `whois/` | Done, tested, pushed |
+| 66 | smtp-server — Build Your Own SMTP Server | `smtp-server/` | Done, tested, not yet pushed |
