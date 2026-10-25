@@ -133,3 +133,4 @@ verifiable success criteria, loop until verified.
 | 107 | timezone-converter — Build Your Own Time Zone Converter | `timezone-converter/` | Done, tested, pushed |
 | 108 | code-comment-remover — Build Your Own Code Comment Remover | `code-comment-remover/` | Done, tested, pushed |
 | 109 | top — Build Your Own Top | `top/` | Done, tested, pushed |
+| 110 | json-validator-prettier — Build Your Own JSON Validator And Prettier | `json-validator-prettier/` | Done, tested, not yet pushed |
