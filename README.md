@@ -98,4 +98,5 @@ verifiable success criteria, loop until verified.
 | 72 | sort-visualiser — Build Your Own Sort Visualiser | `sort-visualiser/` | Done, tested, pushed |
 | 73 | blogging-software — Build Your Own Blogging Software | `blogging-software/` | Done, tested, pushed |
 | 74 | dropbox — Build Your Own Dropbox | `dropbox/` | Done, tested, pushed |
-| 75 | google-keep — Build Your Own Google Keep | `google-keep/` | Done, tested, not yet pushed |
+| 75 | google-keep — Build Your Own Google Keep | `google-keep/` | Done, tested, pushed |
+| 76 | notion — Build Your Own Notion | `notion/` | Done, tested, not yet pushed |
