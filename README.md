@@ -54,4 +54,5 @@ verifiable success criteria, loop until verified.
 | 28 | rate-limiter — Build Your Own Rate Limiter | `rate-limiter/` | Done, tested, pushed |
 | 29 | scheduling-app — Build Your Own Scheduling Automation App | `scheduling-app/` | Done, tested, pushed |
 | 30 | lisp-interpreter — Build Your Own Lisp Interpreter | `lisp-interpreter/` | Done, tested, pushed |
-| 31 | tetris — Build Your Own Tetris | `tetris/` | Done, tested, not yet pushed |
+| 31 | tetris — Build Your Own Tetris | `tetris/` | Done, tested, pushed |
+| 32 | qr-code-generator — Build Your Own QR Code Generator | `qr-code-generator/` | Done, tested, not yet pushed |
