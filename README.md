@@ -61,4 +61,5 @@ verifiable success criteria, loop until verified.
 | 35 | jq — Build Your Own jq | `jq/` | Done, tested, pushed |
 | 36 | pong — Build Your Own Pong | `pong/` | Done, tested, pushed |
 | 37 | curl — Build Your Own curl | `curl/` | Done, tested, pushed |
-| 38 | http-load-tester — Build Your Own HTTP(S) Load Tester | `http-load-tester/` | Done, tested, not yet pushed |
+| 38 | http-load-tester — Build Your Own HTTP(S) Load Tester | `http-load-tester/` | Done, tested, pushed |
+| 39 | data-privacy-vault — Build Your Own Data Privacy Vault | `data-privacy-vault/` | Done, tested, not yet pushed |
