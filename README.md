@@ -26,4 +26,5 @@ verifiable success criteria, loop until verified.
 |---|---------|-----------|--------|
 | 1 | ccwc — Build Your Own wc Tool | `ccwc/` | Done, tested against system `wc` |
 | 2 | json-parser — Build Your Own JSON Parser | `json-parser/` | Done, tested, pushed |
-| 3 | compression — Build Your Own Compression Tool (Huffman) | `compression/` | Done, tested, not yet pushed |
+| 3 | compression — Build Your Own Compression Tool (Huffman) | `compression/` | Done, tested, pushed |
+| 4 | cut — Build Your Own cut Tool | `cut/` | Done, tested, not yet pushed |
