@@ -107,4 +107,5 @@ verifiable success criteria, loop until verified.
 | 81 | loom-clone — Build Your Own Loom Clone | `loom-clone/` | Done, tested, pushed |
 | 82 | markdown-presentation-tool — Build Your Own Markdown Presentation Tool | `markdown-presentation-tool/` | Done, tested, pushed |
 | 83 | monkeytype — Build Your Own Monkeytype | `monkeytype/` | Done, tested, pushed |
-| 84 | network-modelling-tool — Build Your Own Network Modelling Tool | `network-modelling-tool/` | Done, tested, not yet pushed |
+| 84 | network-modelling-tool — Build Your Own Network Modelling Tool | `network-modelling-tool/` | Done, tested, pushed |
+| 85 | online-python-playground — Build Your Own Online Python Playground | `online-python-playground/` | Done, tested, not yet pushed |
