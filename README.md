@@ -96,3 +96,4 @@ verifiable success criteria, loop until verified.
 | 70 | bitcask — Build Your Own Bitcask | `bitcask/` | Done, tested, pushed |
 | 71 | docker — Build Your Own Docker | `docker/` | Done, tested, pushed |
 | 72 | sort-visualiser — Build Your Own Sort Visualiser | `sort-visualiser/` | Done, tested, pushed |
+| 73 | blogging-software — Build Your Own Blogging Software | `blogging-software/` | Done, tested, not yet pushed |
