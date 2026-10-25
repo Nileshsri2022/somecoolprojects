@@ -118,4 +118,5 @@ verifiable success criteria, loop until verified.
 | 92 | ntp-client — Build Your Own NTP Client | `ntp-client/` | Done, tested, pushed |
 | 93 | socat — Build Your Own Socat | `socat/` | Done, tested, pushed |
 | 94 | strace — Build Your Own Strace | `strace/` | Done, tested, pushed |
-| 95 | text-editor — Build Your Own Text Editor | `text-editor/` | Done, tested, not yet pushed |
+| 95 | text-editor — Build Your Own Text Editor | `text-editor/` | Done, tested, pushed |
+| 96 | tr-tool — Build Your Own tr Tool | `tr-tool/` | Done, tested, not yet pushed |
