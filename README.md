@@ -116,4 +116,5 @@ verifiable success criteria, loop until verified.
 | 90 | dns-forwarder — Build Your Own DNS Forwarder | `dns-forwarder/` | Done, tested, pushed |
 | 91 | duplicate-file-finder — Build Your Own Duplicate File Finder | `duplicate-file-finder/` | Done, tested, pushed |
 | 92 | ntp-client — Build Your Own NTP Client | `ntp-client/` | Done, tested, pushed |
-| 93 | socat — Build Your Own Socat | `socat/` | Done, tested, not yet pushed |
+| 93 | socat — Build Your Own Socat | `socat/` | Done, tested, pushed |
+| 94 | strace — Build Your Own Strace | `strace/` | Done, tested, not yet pushed |
