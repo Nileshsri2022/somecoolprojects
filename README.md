@@ -120,4 +120,5 @@ verifiable success criteria, loop until verified.
 | 94 | strace — Build Your Own Strace | `strace/` | Done, tested, pushed |
 | 95 | text-editor — Build Your Own Text Editor | `text-editor/` | Done, tested, pushed |
 | 96 | tr-tool — Build Your Own tr Tool | `tr-tool/` | Done, tested, pushed |
-| 97 | xargs — Build Your Own Xargs | `xargs/` | Done, tested, not yet pushed |
+| 97 | xargs — Build Your Own Xargs | `xargs/` | Done, tested, pushed |
+| 98 | yaml-parser — Build Your Own YAML Parser | `yaml-parser/` | Done, tested, not yet pushed |
