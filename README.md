@@ -62,4 +62,5 @@ verifiable success criteria, loop until verified.
 | 36 | pong — Build Your Own Pong | `pong/` | Done, tested, pushed |
 | 37 | curl — Build Your Own curl | `curl/` | Done, tested, pushed |
 | 38 | http-load-tester — Build Your Own HTTP(S) Load Tester | `http-load-tester/` | Done, tested, pushed |
-| 39 | data-privacy-vault — Build Your Own Data Privacy Vault | `data-privacy-vault/` | Done, tested, not yet pushed |
+| 39 | data-privacy-vault — Build Your Own Data Privacy Vault | `data-privacy-vault/` | Done, tested, pushed |
+| 40 | password-cracker — Build Your Own Password Cracker | `password-cracker/` | Done, tested, not yet pushed |
