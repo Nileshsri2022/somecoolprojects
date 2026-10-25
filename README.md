@@ -109,4 +109,5 @@ verifiable success criteria, loop until verified.
 | 83 | monkeytype — Build Your Own Monkeytype | `monkeytype/` | Done, tested, pushed |
 | 84 | network-modelling-tool — Build Your Own Network Modelling Tool | `network-modelling-tool/` | Done, tested, pushed |
 | 85 | online-python-playground — Build Your Own Online Python Playground | `online-python-playground/` | Done, tested, pushed |
-| 86 | software-teleprompter — Build Your Own Software Teleprompter | `software-teleprompter/` | Done, tested, not yet pushed |
+| 86 | software-teleprompter — Build Your Own Software Teleprompter | `software-teleprompter/` | Done, tested, pushed |
+| 87 | spotify-playlist-backup — Build Your Own Spotify Playlist Backup Service | `spotify-playlist-backup/` | Done, tested, not yet pushed |
