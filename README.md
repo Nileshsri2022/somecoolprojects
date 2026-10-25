@@ -121,4 +121,5 @@ verifiable success criteria, loop until verified.
 | 95 | text-editor — Build Your Own Text Editor | `text-editor/` | Done, tested, pushed |
 | 96 | tr-tool — Build Your Own tr Tool | `tr-tool/` | Done, tested, pushed |
 | 97 | xargs — Build Your Own Xargs | `xargs/` | Done, tested, pushed |
-| 98 | yaml-parser — Build Your Own YAML Parser | `yaml-parser/` | Done, tested, not yet pushed |
+| 98 | yaml-parser — Build Your Own YAML Parser | `yaml-parser/` | Done, tested, pushed |
+| 99 | eliza — Build Your Own ELIZA | `eliza/` | Done, tested, not yet pushed |
