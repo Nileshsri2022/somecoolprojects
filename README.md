@@ -50,4 +50,5 @@ verifiable success criteria, loop until verified.
 | 24 | traceroute — Build Your Own Traceroute | `traceroute/` | Done, tested, pushed |
 | 25 | realtime-chat — Build Your Own Realtime Chat | `realtime-chat/` | Done, tested, pushed |
 | 26 | nats-broker — Build Your Own NATS Message Broker | `nats-broker/` | Done, tested, pushed |
-| 27 | git-client — Build Your Own Git Client | `git-client/` | Done, tested, not yet pushed |
+| 27 | git-client — Build Your Own Git Client | `git-client/` | Done, tested, pushed |
+| 28 | rate-limiter — Build Your Own Rate Limiter | `rate-limiter/` | Done, tested, not yet pushed |
