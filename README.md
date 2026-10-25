@@ -90,4 +90,5 @@ verifiable success criteria, loop until verified.
 | 64 | forth-interpreter — Build Your Own Forth Interpreter | `forth-interpreter/` | Done, tested, pushed |
 | 65 | whois — Build Your Own Whois | `whois/` | Done, tested, pushed |
 | 66 | smtp-server — Build Your Own SMTP Server | `smtp-server/` | Done, tested, pushed |
-| 67 | markdown-to-pdf — Build Your Own Markdown To PDF Editor | `markdown-to-pdf/` | Done, tested, not yet pushed |
+| 67 | markdown-to-pdf — Build Your Own Markdown To PDF Editor | `markdown-to-pdf/` | Done, tested, pushed |
+| 68 | spelling-correction — Build Your Own Spelling Correction Tool | `spelling-correction/` | Done, tested, not yet pushed |
