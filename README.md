@@ -86,4 +86,5 @@ verifiable success criteria, loop until verified.
 | 60 | which — Build Your Own which | `which/` | Done, tested, pushed |
 | 61 | loc-counter — Build Your Own Line of Code Counter | `loc-counter/` | Done, tested, pushed |
 | 62 | dhcp-client — Build Your Own DHCP Client | `dhcp-client/` | Done, tested, pushed |
-| 63 | port-scanner — Build Your Own Port Scanner | `port-scanner/` | Done, tested, not yet pushed |
+| 63 | port-scanner — Build Your Own Port Scanner | `port-scanner/` | Done, tested, pushed |
+| 64 | forth-interpreter — Build Your Own Forth Interpreter | `forth-interpreter/` | Done, tested, not yet pushed |
