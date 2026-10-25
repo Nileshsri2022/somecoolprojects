@@ -127,4 +127,5 @@ verifiable success criteria, loop until verified.
 | 101 | mcp-server — Build Your Own MCP Server For AI Agents | `mcp-server/` | Done, tested, pushed |
 | 102 | llm-chatbot — Build Your Own LLM Powered AI Chatbot | `llm-chatbot/` | Done, tested, pushed |
 | 103 | rtfm-agent — Build Your Own RTFM For Me Agent | `rtfm-agent/` | Done, tested, pushed |
-| 104 | echo-server — Build Your Own Echo Server | `echo-server/` | Done, tested, not yet pushed |
+| 104 | echo-server — Build Your Own Echo Server | `echo-server/` | Done, tested, pushed |
+| 105 | git-contributions-visualiser — Build Your Own Git Contributions Visualisation Tool | `git-contributions-visualiser/` | Done, tested, not yet pushed |
