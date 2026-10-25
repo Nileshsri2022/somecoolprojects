@@ -46,4 +46,5 @@ verifiable success criteria, loop until verified.
 | 20 | discord-bot — Build Your Own Discord Bot | `discord-bot/` | Done, tested, pushed |
 | 21 | linkedin-carousel-generator — Build Your Own LinkedIn Carousel Generator | `linkedin-carousel-generator/` | Done, tested, pushed |
 | 22 | sed — Build Your Own sed | `sed/` | Done, tested, pushed |
-| 23 | dns-resolver — Build Your Own DNS Resolver | `dns-resolver/` | Done, tested, not yet pushed |
+| 23 | dns-resolver — Build Your Own DNS Resolver | `dns-resolver/` | Done, tested, pushed |
+| 24 | traceroute — Build Your Own Traceroute | `traceroute/` | Done, tested, not yet pushed |
