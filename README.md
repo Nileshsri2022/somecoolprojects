@@ -77,4 +77,5 @@ verifiable success criteria, loop until verified.
 | 51 | http-forward-proxy — Build Your Own HTTP Forward Proxy Server | `http-forward-proxy/` | Done, tested, pushed |
 | 52 | redis-cli — Build Your Own Redis CLI | `redis-cli/` | Done, tested, pushed |
 | 53 | sudoku — Build Your Own Sudoku | `sudoku/` | Done, tested, pushed |
-| 54 | zip-file-cracker — Build Your Own Zip File Cracker | `zip-file-cracker/` | Done, tested, not yet pushed |
+| 54 | zip-file-cracker — Build Your Own Zip File Cracker | `zip-file-cracker/` | Done, tested, pushed |
+| 55 | brainfuck-interpreter — Build Your Own brainfuck interpreter | `brainfuck-interpreter/` | Done, tested, not yet pushed |
