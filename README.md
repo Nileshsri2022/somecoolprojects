@@ -79,4 +79,5 @@ verifiable success criteria, loop until verified.
 | 53 | sudoku — Build Your Own Sudoku | `sudoku/` | Done, tested, pushed |
 | 54 | zip-file-cracker — Build Your Own Zip File Cracker | `zip-file-cracker/` | Done, tested, pushed |
 | 55 | brainfuck-interpreter — Build Your Own brainfuck interpreter | `brainfuck-interpreter/` | Done, tested, pushed |
-| 56 | netcat — Build Your Own Netcat | `netcat/` | Done, tested, not yet pushed |
+| 56 | netcat — Build Your Own Netcat | `netcat/` | Done, tested, pushed |
+| 57 | video-chat — Build Your Own Video Chat Application | `video-chat/` | Done, tested, not yet pushed |
