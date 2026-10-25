@@ -59,4 +59,5 @@ verifiable success criteria, loop until verified.
 | 33 | crontab-tool — Build Your Own CronTab Tool | `crontab-tool/` | Done, tested, pushed |
 | 34 | head — Build Your Own head | `head/` | Done, tested, pushed |
 | 35 | jq — Build Your Own jq | `jq/` | Done, tested, pushed |
-| 36 | pong — Build Your Own Pong | `pong/` | Done, tested, not yet pushed |
+| 36 | pong — Build Your Own Pong | `pong/` | Done, tested, pushed |
+| 37 | curl — Build Your Own curl | `curl/` | Done, tested, not yet pushed |
