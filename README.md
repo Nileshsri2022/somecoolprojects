@@ -93,4 +93,5 @@ verifiable success criteria, loop until verified.
 | 67 | markdown-to-pdf — Build Your Own Markdown To PDF Editor | `markdown-to-pdf/` | Done, tested, pushed |
 | 68 | spelling-correction — Build Your Own Spelling Correction Tool | `spelling-correction/` | Done, tested, pushed |
 | 69 | bittorrent-client — Build Your Own BitTorrent Client | `bittorrent-client/` | Done, tested, pushed |
-| 70 | bitcask — Build Your Own Bitcask | `bitcask/` | Done, tested, not yet pushed |
+| 70 | bitcask — Build Your Own Bitcask | `bitcask/` | Done, tested, pushed |
+| 71 | docker — Build Your Own Docker | `docker/` | Done, tested, not yet pushed |
