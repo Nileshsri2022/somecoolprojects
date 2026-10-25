@@ -97,4 +97,5 @@ verifiable success criteria, loop until verified.
 | 71 | docker — Build Your Own Docker | `docker/` | Done, tested, pushed |
 | 72 | sort-visualiser — Build Your Own Sort Visualiser | `sort-visualiser/` | Done, tested, pushed |
 | 73 | blogging-software — Build Your Own Blogging Software | `blogging-software/` | Done, tested, pushed |
-| 74 | dropbox — Build Your Own Dropbox | `dropbox/` | Done, tested, not yet pushed |
+| 74 | dropbox — Build Your Own Dropbox | `dropbox/` | Done, tested, pushed |
+| 75 | google-keep — Build Your Own Google Keep | `google-keep/` | Done, tested, not yet pushed |
