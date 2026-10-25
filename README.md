@@ -105,4 +105,5 @@ verifiable success criteria, loop until verified.
 | 79 | language-server — Build Your Own Language Server (LSP) | `language-server/` | Done, tested, pushed |
 | 80 | chrome-extension — Build Your Own Chrome Extension | `chrome-extension/` | Done, tested, pushed |
 | 81 | loom-clone — Build Your Own Loom Clone | `loom-clone/` | Done, tested, pushed |
-| 82 | markdown-presentation-tool — Build Your Own Markdown Presentation Tool | `markdown-presentation-tool/` | Done, tested, not yet pushed |
+| 82 | markdown-presentation-tool — Build Your Own Markdown Presentation Tool | `markdown-presentation-tool/` | Done, tested, pushed |
+| 83 | monkeytype — Build Your Own Monkeytype | `monkeytype/` | Done, tested, not yet pushed |
